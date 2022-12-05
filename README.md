@@ -1,1 +1,1 @@
-# SturctureAndIntepretationInProgramming
+# StructureAndIntepretationInProgramming
